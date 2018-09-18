@@ -42,4 +42,3 @@
         
         
 
-Copyright 2015 London App Brewery

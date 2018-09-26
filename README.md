@@ -1,9 +1,5 @@
 # Quiz App
-
-
-## Finished App
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Quizzler.gif)
-
+This project was to test a true / false quiz. It was coded through XCode using VMC.
 
 
 
